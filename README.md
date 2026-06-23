@@ -48,6 +48,6 @@ docker run -d \
 ## Docker Hub
 https://hub.docker.com/repositories/kskuzovlev
 
-# 5. Как выглядит работающее приложение 
+## 5. Как выглядит работающее приложение 
 
 <img width="1802" height="1017" alt="image" src="https://github.com/user-attachments/assets/186505ef-d78e-44e7-adf2-f5caf0c05de0" />
